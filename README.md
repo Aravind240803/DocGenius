@@ -4,7 +4,7 @@ DocGenius is a powerful document question-and-answer system developed using the 
 
 **Features**
 
-- **Intelligent Q&A:** Utilizes the Llama3-8b-8192 model via the ChatGroq API to provide precise answers based on document context.
+- **Intelligent Q&A:** Utilizes the gemma-7b-it model via the ChatGroq API to provide precise answers based on document context.
 - **Advanced Embeddings:** Employs Google Generative AI Embeddings for efficient text representation and similarity search.
 - **Document Ingestion:** Loads and processes PDF documents from directories for seamless integration.
 - **Text Splitting:** Uses Recursive Character Text Splitter to chunk documents, ensuring thorough analysis.
